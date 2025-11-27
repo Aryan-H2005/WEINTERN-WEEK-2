@@ -1,7 +1,7 @@
-Sales Dashboard - Power BI
-Overview
+# Sales Dashboard
+## Overview
 
-Interactive Power BI dashboard analyzing company sales:
+Interactive Power BI dashboard analyzing sales performance:
 
 Monthly sales trends
 
@@ -11,22 +11,22 @@ Sales distribution by region
 
 Revenue by category & region
 
-Dataset
+## Dataset
 
-Source: Superstore Sales Dataset
+Superstore Sales Dataset (or similar)
 
-Key columns: Order Date, Product Name, Category, Region, Sales
+## Key columns: Order Date, Product Name, Category, Region, Sales
 
-Tools
+## Tools
 
 Power BI Desktop
 
 Excel / CSV
 
-Insights
+## Insights
 
-Track monthly performance and peak periods
+Monitor sales trends and peak periods
 
 Identify top products and profitable regions
 
-Optimize category-wise revenue strategies
+Optimize category and regional revenue
